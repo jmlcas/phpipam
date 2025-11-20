@@ -1,7 +1,6 @@
-# phpipam
-phpIpam - - Docker compose
+# phpIpam
 
-Ver en "localhost:8200"
+Ver en "http://localhost:8200"
 
 MariaDB username: root
 
@@ -19,7 +18,4 @@ Repetir el Password: el mismo que antes
 User name: Admin
 
 Password: el anterior 
-
-
-
 
